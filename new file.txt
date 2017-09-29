@@ -1,2 +1,6 @@
 how are you man ?
+<<<<<<< HEAD
 original branch
+=======
+branch! 
+>>>>>>> dev
